@@ -1,4 +1,7 @@
 # Sudoku
+
+GU ==> QT 
+
 Sudoku game for everyone along with PDF rules of this fascinating project, 
 
 It is a graphic project and not a console, each attached file works only together.
