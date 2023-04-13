@@ -1,2 +1,3 @@
 # Sudoku
 Sudoku game for everyone along with PDF rules of this fascinating project, I hope you like it...
+[README.pdf](https://github.com/M-Amin-Kiani/Sudoku/files/11221139/README.pdf)
