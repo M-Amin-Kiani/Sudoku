@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>reload_icon_log.jfif</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>closeee.svg</file>
+        <file>loginnn.png</file>
+        <file>reloaddd.svg</file>
+    </qresource>
+</RCC>
